@@ -28,6 +28,13 @@ class App extends React.Component {
     })
   }
 
+  // HELPERS
+
+  filteredCharacters() {
+    return this.state.characters
+      .filter(character => character.name.toLowerCase().includes(this.state.search.toLowerCase()));
+  }
+
   // RENDER
 
   // renderCharacterDetails(props) {
