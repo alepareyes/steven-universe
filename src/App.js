@@ -1,8 +1,8 @@
 import React from 'react';
 import Header from './Header';
 import List from './CharacterList';
-// import CharacterDetail from './CharacterDetails';
-import apiCharacters from './api/api.json';
+import CharacterDetails from './CharacterDetails';
+import apiCharacters from './api/fetch';
 import Filters from './Filters';
 import "./styles/app.scss";
 import { Switch, Route } from 'react-router-dom';
@@ -13,11 +13,16 @@ class App extends React.Component {
     super();
     this.state = {
       search: "",
-      characters: apiCharacters.results,
+      characters: []
     };
     this.handleSearch = this.handleSearch.bind(this);
+    this.renderCharacterDetails = this.renderCharacterDetails.bind(this);
   }
 
+
+  componentDidMount() {
+    apiCharacters().then(characters => this.setState({ characters }));
+  }
 
 
   // EVENTOS
@@ -37,20 +42,20 @@ class App extends React.Component {
 
   // RENDER
 
-  // renderCharacterDetails(props) {
+  renderCharacterDetails(props) {
 
-  //   const routeId = props.match.params.id;
-  //   const character = this.state.characters.find(item => item.id == routeId);
+    const routeId = props.match.params.id;
+    const character = this.state.characters.find(item => item.id == routeId);
 
-  //   if (character === undefined) {
-  //     return <p className="notfound">Character not found!! Sorry :( </p>
-  //   } else {
-  //     return <CharacterDetail
-  //       character={character}
-  //     />
-  //   }
+    if (character === undefined) {
+      return <p className="notfound">Character not found!! Sorry :( </p>
+    } else {
+      return <CharacterDetails
+        character={character}
+      />
+    }
 
-  // }
+  }
 
 
   render() {
@@ -61,7 +66,7 @@ class App extends React.Component {
         <Switch>
           <Route exact path="/">
             <Filters handleSearch={this.handleSearch} value={this.state.search} />
-            <List characters={this.state.characters} />
+            <List characters={this.filteredCharacters()} />
           </Route>
           <Route exact path="/character/:id">
             {this.renderCharacterDetails}

@@ -8,7 +8,12 @@
         "Half-Gem",
         "Half-Human"
       ],
-      "nicknames": [],
+      "nicknames": [
+        "Schtu-ball",
+        "Curly-Haired One",
+        "Steve-aroni",
+        "Steve-O"
+      ],
       "alias": [
         "Tiger Millionaire/Tiger Philanthropist",
         "Peter Pizzapoppolis"
@@ -514,6 +519,104 @@
       },
       "image": {
         "current": "https://vignette.wikia.nocookie.net/steven-universe/images/6/64/Dan_Sapphy_ur_Freezies_with_Gem.png/revision/latest/scale-to-width-down/350?cb=20190223221703"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Lapis Lazuli",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Lapis",
+        "Beach Summer Fun Buddy",
+        "Lazuli"
+      ],
+      "alias": [
+        "Bob"
+      ],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": [
+        "Terraformer",
+        "Informant",
+        "Guardian",
+        "Teacher"
+      ],
+      "weapons": {
+        "name": "Hydrokinesis",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/2/2d/Lapis_Lazuli_Water_Hand.gif/revision/latest/scale-to-width-down/200?cb=20150409012538"
+      },
+      "fusions": [
+        "Malachite"
+      ],
+      "gem": {
+        "name": "Lapis lazuli",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/2/25/BackGem.png/revision/latest/scale-to-width-down/100?cb=20190205024447",
+        "type": "Lapis lazuli"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c2/Lapis_S6_By_TheOffColors.png/revision/latest/scale-to-width-down/350?cb=20190209185429",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a2/LookBeckyItsLapis.png/revision/latest/scale-to-width-down/350?cb=20190209185655"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Biggs Jasper",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": [
+        "Soldier",
+        "Guardian",
+        "Ferris Wheel Operator"
+      ],
+      "weapons": {},
+      "fusions": [],
+      "gem": {
+        "name": "Biggs Jasper",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e3/Biggs_Jasper_Gemstone..png/revision/latest/scale-to-width-down/100?cb=20191119090954",
+        "type": "Quartz"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/1/14/Biggs_Render_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/343?cb=20200122042402",
+        "corrupted": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a4/BiggsJasperNew.png/revision/latest/scale-to-width-down/350?cb=20160802041340"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Blue Diamond",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Blue",
+        "My Diamond",
+        "Your Highness"
+      ],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": "Matriarch",
+      "weapons": {
+        "name": "Energy Projection",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/6a/Blue_Diamond_attack.gif/revision/latest/scale-to-width-down/180?cb=20180714015540"
+      },
+      "fusions": [],
+      "gem": {
+        "name": "Blue diamond",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/9/93/Bdgem1.png/revision/latest/scale-to-width-down/100?cb=20190201030315",
+        "type": "Diamond"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8e/Blue_Diamond_Fixed.png/revision/latest/scale-to-width-down/329?cb=20200127131927"
       }
     }
   ]

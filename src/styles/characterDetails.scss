@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Staatliches&display=swap');
+
+
+.details {
+  margin: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+  background-color:rgba(159, 144, 175, 0.623);
+
+
+  &__img{
+    width: 90%;
+    transform: 
+    translateY(-60px);
+  }
+
+  &__gem{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    align-items: center;
+    transform:
+    translateX(-120px)
+    translateY(0px);
+    border-radius: 20px;
+
+    &--img {
+      width: 80px;
+    }
+
+    &--name{
+      font-family: 'Staatliches', cursive;
+    }
+  }
+    &__info{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+       align-items: center;
+
+      &--name{
+        font-family: 'Ubuntu', sans-serif;
+      }
+
+      &--nicknames{
+        
+      }
+    }
+  }

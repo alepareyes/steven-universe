@@ -27,7 +27,12 @@
     padding: 2px;
 
     &--gem {
-    height: 30px;
+      position: absolute;
+      transform:
+        translateX(50px)
+        translateY(-60px);
+      height: 60px;
+      
     }
 
     &--name {

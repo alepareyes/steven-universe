@@ -1,5 +1,6 @@
 import React from 'react';
 import './styles/characterPreview.scss';
+import { Link } from 'react-router-dom';
 
 function Preview(props) {
 
@@ -14,11 +15,13 @@ function Preview(props) {
 
   return (
     <div className="preview">
-      <div className="preview__photo" style={style}></div>
-      <div className="preview__info">
-        <h3 className="preview__info--name">{name}</h3>
-        <img className="preview__info--gem" src={gem.url}></img>
-      </div>
+      <Link to={`/character/${id}`}>
+        <div className="preview__photo" style={style}></div>
+        <div className="preview__info">
+          <h3 className="preview__info--name">{name}</h3>
+          <img className="preview__info--gem" src={gem.url}></img>
+        </div>
+      </Link>
     </div >
   )
 }
