@@ -1,6 +1,7 @@
 import React from 'react';
 import "./styles/characterDetails.scss";
 import { Link } from 'react-router-dom';
+import { CSSTransition } from 'react-transition-group';
 
 const CharacterDetails = (props) => {
 
@@ -57,7 +58,6 @@ const CharacterDetails = (props) => {
           <strong>Episodes:</strong>
         </li>
       </div>
-
     </div>
   )
 }

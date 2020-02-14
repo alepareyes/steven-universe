@@ -6,6 +6,7 @@ import apiCharacters from './api/fetch';
 import Filters from './Filters';
 import "./styles/app.scss";
 import { Switch, Route } from 'react-router-dom';
+import { TransitionGroup, CSSTransition } from 'react-transition-group';
 
 class App extends React.Component {
 
@@ -63,15 +64,31 @@ class App extends React.Component {
     return (
       <div className="App">
         <Header />
-        <Switch>
-          <Route exact path="/">
-            <Filters handleSearch={this.handleSearch} value={this.state.search} />
-            <List characters={this.filteredCharacters()} />
-          </Route>
-          <Route exact path="/character/:id">
-            {this.renderCharacterDetails}
-          </Route>
-        </Switch>
+
+        <Route render={({ location }) => (
+
+
+          <TransitionGroup>
+            <CSSTransition
+              key={location.key}
+              classNames="fade"
+              timeout={300}>
+
+              <Switch location={location}>
+                <Route exact path="/">
+                  <Filters handleSearch={this.handleSearch} value={this.state.search} />
+                  <List characters={this.filteredCharacters()} />
+                </Route>
+                <Route exact path="/character/:id">
+                  {this.renderCharacterDetails}
+                </Route>
+              </Switch>
+
+
+            </CSSTransition>
+          </TransitionGroup>
+        )} />
+
       </div >
     );
   }
