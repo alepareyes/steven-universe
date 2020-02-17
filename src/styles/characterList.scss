@@ -1,4 +1,15 @@
 .main {
-  display: flex;
-  flex-wrap: wrap;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.notfound {
+display: flex;
+align-items: center;
+flex-direction: column;
+  &__img{
+    width: 300px;
+  }
 }

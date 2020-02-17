@@ -4,10 +4,10 @@ import { Link } from 'react-router-dom';
 
 function Preview(props) {
 
-  const { id, image, name, gem } = props.characters;
+  const { id, name, gem, preview } = props.characters;
 
   const style = {
-    backgroundImage: `url("${image.current}")`,
+    backgroundImage: `url("${preview}")`,
     backgroundPosition: 'center',
     backgroundPosition: 'top center',
     backgroundSize: 'cover'

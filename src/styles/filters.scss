@@ -4,13 +4,12 @@
 .filter {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
-  width: 300px;
   margin: 0;
 
   &__label{
     font-family: 'Ubuntu', sans-serif;
-
   }
 
   &__input{
@@ -20,8 +19,30 @@
     border-style: none;
     font-family: 'Ubuntu', sans-serif;
   }
-    
-  &__collapsible{
+}
+
+
+.Collapsible{ 
+    margin: 40px;
+    font-family: 'Ubuntu', sans-serif;
+
+  &__trigger {
+    color: hotpink;
     cursor: pointer;
+    background: white;
+  }
+
+  &__contentOuter{
+
+  }
+
+  &__contentInner{
   }
 }
+
+.collapsible__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }

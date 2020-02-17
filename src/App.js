@@ -13,9 +13,11 @@ class App extends React.Component {
     super();
     this.state = {
       search: "",
-      characters: []
+      characters: [],
+      specieSelected: "All",
     };
     this.handleSearch = this.handleSearch.bind(this);
+    this.handleSpecies = this.handleSpecies.bind(this);
     this.renderCharacterDetails = this.renderCharacterDetails.bind(this);
   }
 
@@ -33,11 +35,19 @@ class App extends React.Component {
     })
   }
 
+  handleSpecies(specieSelected) {
+    this.setState({
+      specieSelected
+    })
+
+  }
+
   // HELPERS
 
   filteredCharacters() {
     return this.state.characters
-      .filter(character => character.name.toLowerCase().includes(this.state.search.toLowerCase()));
+      .filter(character => character.name.toLowerCase().includes(this.state.search.toLowerCase()))
+      .filter(character => character.species.includes(this.state.specieSelected) || ("All" === this.state.specieSelected))
   }
 
   // RENDER
@@ -45,6 +55,7 @@ class App extends React.Component {
   renderCharacterDetails(props) {
 
     const routeId = props.match.params.id;
+
     const character = this.state.characters.find(item => item.id == routeId);
 
     if (character === undefined) {
@@ -65,7 +76,12 @@ class App extends React.Component {
         <Header />
         <Switch>
           <Route exact path="/">
-            <Filters handleSearch={this.handleSearch} value={this.state.search} />
+            <Filters
+              specieSelected={this.state.specieSelected}
+              handleSearch={this.handleSearch}
+              value={this.state.search}
+              handleSpecies={this.handleSpecies} />
+
             <List characters={this.filteredCharacters()} />
           </Route>
           <Route exact path="/character/:id">
