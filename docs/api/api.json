@@ -1,0 +1,665 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Steven Quartz Universe",
+      "species": [
+        "Gem",
+        "Human"
+      ],
+      "alias": [
+        "Tiger Millionaire",
+        "Peter Pizzapoppolis"
+      ],
+      "occupation": "Guardian",
+      "weapons": [
+        {
+          "name": "Shield",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/9/9e/Steven%27s_shield_png.png/revision/latest/scale-to-width-down/220?cb=20160118210819"
+        }
+      ],
+      "fusions": [
+        {
+          "name": "Stevonnie",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/1/14/Stevonnie_Weaponized.png/revision/latest/scale-to-width-down/301?cb=20200208145510"
+        },
+        {
+          "name": "Steg",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/8/83/Steg_%28Modelsheet_4%29_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/258?cb=20191113001914"
+        },
+        {
+          "name": "Smoky Quartz",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/60/Smoky_Quartz_3.png/revision/latest/scale-to-width-down/350?cb=20191208221312"
+        },
+        {
+          "name": "Rainbow Quartz 2.0",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/69/Rainbow2.0SUFTweaked.png/revision/latest/scale-to-width-down/350?cb=20200123195400"
+        },
+        {
+          "name": "Sustone",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c0/Sunstone_SUF.png/revision/latest/scale-to-width-down/350?cb=20191218005652"
+        },
+        {
+          "name": "Obsidian",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/3/33/Goddessofnoogies.png/revision/latest/scale-to-width-down/332?cb=20190208225209"
+        }
+      ],
+      "gem": {
+        "name": "Pink Diamond",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f1/NewRoseGem1.png/revision/latest/scale-to-width-down/100?cb=20191208233336",
+        "type": "Diamond"
+      },
+      "origin": "",
+      "preview": "https://vignette.wikia.nocookie.net/steven-universe/images/1/13/Future_Steven.png/revision/latest/scale-to-width-down/350?cb=20200118163817",
+      "image": [
+        {
+          "name": "Current",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/1/13/Future_Steven.png/revision/latest/scale-to-width-down/350?cb=20200118163817"
+        },
+        {
+          "name": "Previous",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/66/Movie_Steven.png/revision/latest/scale-to-width-down/350?cb=20200118163858"
+        },
+        {
+          "name": "Debut",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f0/Steven_Shield_WD.png/revision/latest/scale-to-width-down/350?cb=20200101143636"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Garnet",
+      "species": [
+        "Gem",
+        "Fusion"
+      ],
+      "alias": [
+        "Mom Universe"
+      ],
+      "occupation": "Guardian",
+      "weapons": [
+        {
+          "name": "Gauntlets",
+          "url": "https://vignette.wikia.nocookie.net/universosteven/images/0/00/Guantes_de_Garnet.png/revision/latest?cb=20160807094431&path-prefix=es"
+        }
+      ],
+      "fusions": [
+        {
+          "name": "Obsidian",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/3/33/Goddessofnoogies.png/revision/latest/scale-to-width-down/332?cb=20190208225209"
+        },
+        {
+          "name": "Sardonyx",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b7/Sardonyx_by_Lenhi.png/revision/latest/scale-to-width-down/350?cb=20160815205826"
+        }
+      ],
+      "origin": [
+        {
+          "name": "Sapphire",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/3/3b/NewSapphireGem2.png/revision/latest/scale-to-width-down/100?cb=20190701014239"
+        },
+        {
+          "name": "Ruby",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/4/40/NewRubyGem2.png/revision/latest/scale-to-width-down/100?cb=20190701021733"
+        }
+      ],
+      "gem": {
+        "name": "Garnet",
+        "url": [
+          "https://vignette.wikia.nocookie.net/steven-universe/images/5/58/Garnet_sapphire_gem_day.png/revision/latest/scale-to-width-down/100?cb=20190701014652",
+          "https://vignette.wikia.nocookie.net/steven-universe/images/4/4e/Garnet_ruby_gem_day.png/revision/latest/scale-to-width-down/100?cb=20190701022118"
+        ]
+      },
+      "image": [
+        {
+          "name": "Current",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/2/27/Garnet_With_Rings.png/revision/latest/scale-to-width-down/287?cb=20191031022318"
+        },
+        {
+          "name": "Previous",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/1/16/GarnetByKmes.png/revision/latest/scale-to-width-down/287?cb=20160123075715"
+        },
+        {
+          "name": "Debut",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/d/d2/GarnetByKmesLenhi.png/revision/latest/scale-to-width-down/287?cb=20190226024716"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Amethyst",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        ""
+      ],
+      "alias": [
+        "Amy"
+      ],
+      "gender": "Genderless",
+      "pronoun": [
+        "She/Her",
+        "He/Him (as Purple Puma)"
+      ],
+      "status": "Active",
+      "weapons": {
+        "name": "Whip",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0c/NewWhip.png/revision/latest/scale-to-width-down/300?cb=20160809202507"
+      },
+      "fusions": [
+        "Opal",
+        "Sugilite",
+        "Alexandrite",
+        "Smoky Quartz",
+        "Obsidian"
+      ],
+      "gem": {
+        "name": "Amethyst",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/a/ae/AmethystGem2.png/revision/latest/scale-to-width-down/100?cb=20190120180312",
+        "type": "Quartz"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/4/4b/Amethyst_CYM_Outfit.png/revision/latest/scale-to-width-down/350?cb=20190208061012",
+        "previous": "https://vignette.wikia.nocookie.net/steven-universe/images/5/53/Jfek_New_Gen.png/revision/latest/scale-to-width-down/350?cb=20160708025000",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/7/70/Jfek.png/revision/latest/scale-to-width-down/350?cb=20151130211342"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Pearl",
+      "species": [
+        "Gem"
+      ],
+      "alias": [
+        "Earl"
+      ],
+      "gender": "Genderless",
+      "pronoun": "He/Him",
+      "status": "Active",
+      "weapons": {
+        "name": "Spear",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/1/15/NewSpear.png/revision/latest/scale-to-width-down/300?cb=20150316004750"
+      },
+      "fusions": [
+        "Opal",
+        "Rainbow Quartz",
+        "Rainbow Quartz 2.0",
+        "Sardonyx",
+        "Alexandrite",
+        "Obsidian",
+        "Mega Pearl"
+      ],
+      "gem": {
+        "name": "Pearl",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e0/Pearl_Gemstone_New.png/revision/latest/scale-to-width-down/100?cb=20191213010706",
+        "type": "Pearl"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/3/38/CYM_Pearl_Request_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/305?cb=20190502165900",
+        "previous": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8c/Current_Pearl_Request.png/revision/latest/scale-to-width-down/305?cb=20170807000053",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/8/84/Debut_Pearl_Request.png/revision/latest/scale-to-width-down/305?cb=20151120135105"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Peridot",
+      "age": "17",
+      "species": [
+        "Half-Gem",
+        "Half-Human"
+      ],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "weapons": {
+        "name": "Modern Gem Technology",
+        "url": "https://rickandmortyapi.com/api/location/64https://vignette.wikia.nocookie.net/steven-universe/images/9/9e/Steven%27s_shield_png.png/revision/latest/scale-to-width-down/220?cb=20160118210819"
+      },
+      "fusions": [],
+      "gem": {
+        "name": "Peridot",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f1/NewRoseGem1.png/revision/latest/scale-to-width-down/100?cb=20191208233336",
+        "type": "Peridot"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b4/PeridotS6Render_By_TheOffColors.png/revision/latest/scale-to-width-down/350?cb=20191110093708",
+        "previous": "https://vignette.wikia.nocookie.net/steven-universe/images/7/7b/Peridot1_By_TheOffColors.png/revision/latest/scale-to-width-down/350?cb=20191024034730",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/1/14/Tol_Peridot_by_Lenhi.png/revision/latest/scale-to-width-down/273?cb=20190209190934"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Alexandrite",
+      "species": [
+        "Gem",
+        "Fusion"
+      ],
+      "alias": [
+        "Mrs. Universe"
+      ],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "weapons": {
+        "name": "All of the fusers' weapons",
+        "url": "https://rickandmortyapi.com/api/location/64https://vignette.wikia.nocookie.net/steven-universe/images/9/9e/Steven%27s_shield_png.png/revision/latest/scale-to-width-down/220?cb=20160118210819"
+      },
+      "fusions": [
+        "Obsidian"
+      ],
+      "gem": {
+        "name": "Alexandrite",
+        "url": [
+          "https://vignette.wikia.nocookie.net/steven-universe/images/2/22/Alexandrite_Head_Gemstone_Day.png/revision/latest/scale-to-width-down/100?cb=20191224215416",
+          "https://vignette.wikia.nocookie.net/steven-universe/images/4/4e/Alexandrite_-_Ametista_-_Pedra.png/revision/latest/scale-to-width-down/100?cb=20150830180204",
+          "https://vignette.wikia.nocookie.net/steven-universe/images/4/49/AlexLeftGem.png/revision/latest/scale-to-width-down/100?cb=20190123233825",
+          "https://vignette.wikia.nocookie.net/steven-universe/images/c/cf/AlexRightGem.png/revision/latest/scale-to-width-down/100?cb=20190701015829"
+        ],
+        "type": "Fusion"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/c/ce/Alexandrite_Movie_Regen_Now_With_Rings.png/revision/latest/scale-to-width-down/278?cb=20191223210719",
+        "previous": "https://vignette.wikia.nocookie.net/steven-universe/images/3/33/Alexandrite_New_Regen_by_Lenhi.png/revision/latest/scale-to-width-down/278?cb=20170506221452",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0a/Alexandrite_Current_Regen_by_Lenhi.png/revision/latest/scale-to-width-down/278?cb=20170506221514"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Aquamarine",
+      "species": [
+        "Gem"
+      ],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "weapons": {},
+      "fusions": [
+        "Obsidian"
+      ],
+      "gem": {
+        "name": "Aquamarine",
+        "url": [
+          "https://vignette.wikia.nocookie.net/steven-universe/images/0/07/AquamarineGemstone.png/revision/latest/scale-to-width-down/100?cb=20191127233148"
+        ],
+        "type": "Aquamarine"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/7/79/Auau.png/revision/latest/scale-to-width-down/350?cb=20191215194140",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/3/36/AquamarineModelSheetPose2ByChara.png/revision/latest/scale-to-width-down/350?cb=20190129034456"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Barbara Miller",
+      "species": [
+        "Human"
+      ],
+      "alias": [],
+      "gender": "Female",
+      "pronoun": "She/Her",
+      "status": "Alive",
+      "occupation": "Mailwoman",
+      "weapons": {},
+      "fusions": [],
+      "gem": {
+        "name": "",
+        "url": [],
+        "type": ""
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/3/3a/Barbara_Miller_%3B%29.png/revision/latest/scale-to-width-down/264?cb=20160814194807"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Bill Dewey",
+      "species": [
+        "Human"
+      ],
+      "alias": [],
+      "gender": "Male",
+      "pronoun": "He/Him",
+      "status": "Alive",
+      "occupation": "Mayor of Beach City",
+      "weapons": {},
+      "fusions": [],
+      "gem": {},
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f2/Bill_Dewey.png/revision/latest/scale-to-width-down/316?cb=20160801072940"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Bismuth",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Biz (by Amethyst & Peridot)"
+      ],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": [
+        "Guardian",
+        "Blacksmith",
+        "Builder"
+      ],
+      "weapons": {
+        "name": "Breaking Point",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/5/5b/BREAKING_POINTV2.png/revision/latest/scale-to-width-down/350?cb=20190601031911"
+      },
+      "fusions": [],
+      "gem": {
+        "name": "Bismuth",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/b/b9/Bismuth_-_Gem.png/revision/latest/scale-to-width-down/125?cb=20190701042616",
+        "type": "Bismuth"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/d/da/BismuthMovie.png/revision/latest?cb=20190910222855",
+        "previous": "https://vignette.wikia.nocookie.net/steven-universe/images/5/59/Bismuth_current_regen.png/revision/latest/scale-to-width-down/350?cb=20180706002636",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/3/38/Bismuth_by_Lenhi.png/revision/latest/scale-to-width-down/350?cb=20170105131527"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Bixbite",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": [
+        "Guardian",
+        "Fish Stwe Pizza Chef"
+      ],
+      "weapons": {},
+      "fusions": [],
+      "gem": {
+        "name": "Bixbite",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/3/32/Crab_Gem_Blue.png/revision/latest/scale-to-width-down/100?cb=20191202143253",
+        "type": "Bixbite"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/6/67/Bixbite_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/282?cb=20191216022819",
+        "corrupted": "https://vignette.wikia.nocookie.net/steven-universe/images/4/49/Crabmonster.png/revision/latest/scale-to-width-down/350?cb=20180304031640"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Blue Diamond",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Blue",
+        "My Diamond",
+        "Your Highness"
+      ],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": "Matriarch",
+      "weapons": {
+        "name": "Energy Projection",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/6a/Blue_Diamond_attack.gif/revision/latest/scale-to-width-down/180?cb=20180714015540"
+      },
+      "fusions": [],
+      "gem": {
+        "name": "Blue diamond",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/9/93/Bdgem1.png/revision/latest/scale-to-width-down/100?cb=20190201030315",
+        "type": "Diamond"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8e/Blue_Diamond_Fixed.png/revision/latest/scale-to-width-down/329?cb=20200127131927"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Jamie",
+      "species": [
+        "Human"
+      ],
+      "nicknames": [],
+      "alias": [],
+      "gender": "Male",
+      "pronoun": "He/Him",
+      "status": "Alive",
+      "occupation": [
+        "Postman",
+        "Lead Director",
+        "Actor"
+      ],
+      "weapons": {},
+      "fusions": [],
+      "gem": {},
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/0/00/Jamie_-_Love_Letters_-_Model.png/revision/latest/scale-to-width-down/198?cb=20150906031617"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Rose Quartz",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Rose",
+        "Mom"
+      ],
+      "alias": [
+        "Pink Diamond"
+      ],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Deceased",
+      "occupation": [
+        "Guardian",
+        "Matriarch"
+      ],
+      "weapons": {
+        "name": "Sword",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/0/0c/NewRoseSword.png/revision/latest?cb=20170307051644"
+      },
+      "fusions": [
+        "Smoky Quartz",
+        "Rainbow Quartz",
+        "Sustone",
+        "Obsidian"
+      ],
+      "gem": {
+        "name": "Pink diamond",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f1/NewRoseGem1.png/revision/latest/scale-to-width-down/100?cb=20191208233336",
+        "type": "Diamond"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f9/Rose_Quartz_-_Weaponized.png/revision/latest/scale-to-width-down/350?cb=20190115021346"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Ruby",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Eternal Flame",
+        "Ruby Rider",
+        "Sweetums"
+      ],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active (fused)",
+      "occupation": [
+        "Guardian",
+        "Soldier"
+      ],
+      "weapons": {
+        "name": "Gauntlet",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/8/84/LetMeFistYourSapphire.png/revision/latest/scale-to-width-down/200?cb=20151013185525"
+      },
+      "fusions": [
+        "Garnet",
+        "Sugulite",
+        "Sardonyx",
+        "Alexandrite",
+        "Larger Ruby",
+        "Sunstone",
+        "Obsidian"
+      ],
+      "gem": {
+        "name": "Ruby",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/4/40/NewRubyGem2.png/revision/latest/scale-to-width-down/100?cb=20190701021733",
+        "type": "Ruby"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/f/f6/Ruby_-_Weaponized.png/revision/latest/scale-to-width-down/350?cb=20190223220556"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Sapphire",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Your (Grand) Clarity",
+        "Laughy Sapphy"
+      ],
+      "alias": [
+        "Sophie"
+      ],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": [
+        "Aristocrat",
+        "Guardian"
+      ],
+      "weapons": {},
+      "fusions": [
+        "Garnet",
+        "Sugulite",
+        "Sardonyx",
+        "Alexandrite",
+        "Sunstone",
+        "Obsidian"
+      ],
+      "gem": {
+        "name": "Sapphire",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/3/3b/NewSapphireGem2.png/revision/latest/scale-to-width-down/100?cb=20190701014239",
+        "type": "Sapphire"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/6/64/Dan_Sapphy_ur_Freezies_with_Gem.png/revision/latest/scale-to-width-down/350?cb=20190223221703"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Lapis Lazuli",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Lapis",
+        "Beach Summer Fun Buddy",
+        "Lazuli"
+      ],
+      "alias": [
+        "Bob"
+      ],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": [
+        "Terraformer",
+        "Informant",
+        "Guardian",
+        "Teacher"
+      ],
+      "weapons": {
+        "name": "Hydrokinesis",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/2/2d/Lapis_Lazuli_Water_Hand.gif/revision/latest/scale-to-width-down/200?cb=20150409012538"
+      },
+      "fusions": [
+        "Malachite"
+      ],
+      "gem": {
+        "name": "Lapis lazuli",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/2/25/BackGem.png/revision/latest/scale-to-width-down/100?cb=20190205024447",
+        "type": "Lapis lazuli"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/c/c2/Lapis_S6_By_TheOffColors.png/revision/latest/scale-to-width-down/350?cb=20190209185429",
+        "debut": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a2/LookBeckyItsLapis.png/revision/latest/scale-to-width-down/350?cb=20190209185655"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Biggs Jasper",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": [
+        "Soldier",
+        "Guardian",
+        "Ferris Wheel Operator"
+      ],
+      "weapons": {},
+      "fusions": [],
+      "gem": {
+        "name": "Biggs Jasper",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/e/e3/Biggs_Jasper_Gemstone..png/revision/latest/scale-to-width-down/100?cb=20191119090954",
+        "type": "Quartz"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/1/14/Biggs_Render_by_RylerGamerDBS.png/revision/latest/scale-to-width-down/343?cb=20200122042402",
+        "corrupted": "https://vignette.wikia.nocookie.net/steven-universe/images/a/a4/BiggsJasperNew.png/revision/latest/scale-to-width-down/350?cb=20160802041340"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Blue Diamond",
+      "species": [
+        "Gem"
+      ],
+      "nicknames": [
+        "Blue",
+        "My Diamond",
+        "Your Highness"
+      ],
+      "alias": [],
+      "gender": "Genderless",
+      "pronoun": "She/Her",
+      "status": "Active",
+      "occupation": "Matriarch",
+      "weapons": {
+        "name": "Energy Projection",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/6a/Blue_Diamond_attack.gif/revision/latest/scale-to-width-down/180?cb=20180714015540"
+      },
+      "fusions": [],
+      "gem": {
+        "name": "Blue diamond",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/9/93/Bdgem1.png/revision/latest/scale-to-width-down/100?cb=20190201030315",
+        "type": "Diamond"
+      },
+      "image": {
+        "current": "https://vignette.wikia.nocookie.net/steven-universe/images/8/8e/Blue_Diamond_Fixed.png/revision/latest/scale-to-width-down/329?cb=20200127131927"
+      }
+    }
+  ]
+}
