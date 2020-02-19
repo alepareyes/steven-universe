@@ -785,6 +785,81 @@
           "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/64/Dan_Sapphy_ur_Freezies_with_Gem.png/revision/latest/scale-to-width-down/350?cb=20190223221703"
         }
       ]
+    },
+    {
+      "id": 18,
+      "name": "Rainbow Quartz 2.0",
+      "species": [
+        "Gem",
+        "Human",
+        "Fusion"
+      ],
+      "alias": [],
+      "occupation": [
+        "Guardian",
+        "Babysitter"
+      ],
+      "weapons": [
+        {
+          "name": "Parasol",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/7/74/RQ2.0ParasolClosedRocketRainbow.png/revision/latest/scale-to-width-down/76?cb=20190127153814"
+        }
+      ],
+      "fusions": [
+        {
+          "name": "Obsidian",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/3/33/Goddessofnoogies.png/revision/latest/scale-to-width-down/332?cb=20190208225209"
+        }
+      ],
+      "origin": [
+        {
+          "name": "Pearl",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/a/af/Rainbow_Quartz_Forehead_Gem.png/revision/latest/scale-to-width-down/100?cb=20190701011645"
+        },
+        {
+          "name": "Steven",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/3/3a/RainbowQuartzGemRose.png/revision/latest/scale-to-width-down/100?cb=20191208235202"
+        }
+      ],
+      "gem": {
+        "name": "Rainbow Quartz",
+        "url": "https://vignette.wikia.nocookie.net/steven-universe/images/a/af/Rainbow_Quartz_Forehead_Gem.png/revision/latest/scale-to-width-down/100?cb=20190701011645"
+      },
+      "preview": "https://vignette.wikia.nocookie.net/steven-universe/images/6/69/Rainbow2.0SUFTweaked.png/revision/latest/scale-to-width-down/350?cb=20200123195400",
+      "image": [
+        {
+          "name": "Current",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/6/69/Rainbow2.0SUFTweaked.png/revision/latest/scale-to-width-down/350?cb=20200123195400"
+        },
+        {
+          "name": "Debut",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/9/9e/Rainbow_2.0_ver2.png/revision/latest/scale-to-width-down/350?cb=20190207231308"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Ronaldo Fryman",
+      "species": [
+        "Human"
+      ],
+      "alias": [
+        "Loch Ness Bloggster"
+      ],
+      "occupation": [
+        "Fryboy (Beach Citywalk Fries)"
+      ],
+      "weapons": [],
+      "fusions": [],
+      "origin": [],
+      "gem": {},
+      "preview": "https://vignette.wikia.nocookie.net/steven-universe/images/1/1b/Ronaldo_Fryman.png/revision/latest/scale-to-width-down/208?cb=20190122153301",
+      "image": [
+        {
+          "name": "",
+          "url": "https://vignette.wikia.nocookie.net/steven-universe/images/1/1b/Ronaldo_Fryman.png/revision/latest/scale-to-width-down/208?cb=20190122153301"
+        }
+      ]
     }
   ]
 }
